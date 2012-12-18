@@ -1,10 +1,12 @@
 <%= include header.ejs %>
-
-    <h1><%= post.title %></h1>
-    <div>
+    
+    <div class="main">
+      <h1><%= post.title %></h1>
+      <div>
 	<%= post.content %>
-    </div>    
+      </div>    
+    </div>
 
-    <p><a href="/posts">View posts</a></p>
+    <%= include sidebar.ejs %>
 
 <%= include footer.ejs %>

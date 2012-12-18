@@ -9,3 +9,19 @@ input {
 a {
   color: #00b7ff;
 }
+.main {
+  width: 600px;
+}
+.sidebar {
+  width: 200px;
+}
+.main,
+.sidebar {
+  float: left;
+  padding: 20px;
+  border: 1px solid #ccc;
+  background-color: #bedbee;
+  min-height: 400px;
+  margin-right: 20px;
+  border-radius: 10px;
+}

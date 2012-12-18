@@ -1,0 +1,24 @@
+Express server listening on port 8084
+[{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}]
+[90mGET /posts [32m200 [90m215ms - 327[0m
+[90mGET /stylesheets/style.css [32m200 [90m1618ms - 190[0m
+[90mGET / [32m200 [90m53ms - 621[0m
+[90mGET /stylesheets/style.css [36m304 [90m39ms[0m
+[{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}]
+[90mGET /posts [32m200 [90m60ms - 327[0m
+[90mGET /stylesheets/style.css [36m304 [90m20ms[0m
+{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}
+[90mGET /posts/50d08045a027cc8a2e000001 [32m200 [90m66ms - 868[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+[{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}]
+[90mGET /posts [32m200 [90m52ms - 327[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET / [32m200 [90m33ms - 621[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[90mGET / [32m200 [90m39ms - 621[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+[90mGET / [32m200 [90m52ms - 621[0m
+[90mGET /stylesheets/style.css [36m304 [90m27ms[0m
+[90mGET / [32m200 [90m58ms - 831[0m
+[90mGET / [32m200 [90m31ms - 831[0m
+[90mGET /stylesheets/style.css [32m200 [90m1101ms - 275[0m

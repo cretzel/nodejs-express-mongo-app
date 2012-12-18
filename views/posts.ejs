@@ -1,13 +1,15 @@
 <%= include header.ejs %>
 
-    <h1>Posts</h1>
+    <div class="main">
+        <h1>Posts</h1>
 
-    <% for(var i=0; i<posts.length; i++) {%>
-       <div>
-	  <a href="posts/<%= posts[i]._id %>"><%= posts[i].title %></a>
-       </div>
-    <% } %>
+    	<% for(var i=0; i<posts.length; i++) {%>
+      	 <div>
+	 	  <a href="posts/<%= posts[i]._id %>"><%= posts[i].title %></a>
+         </div>
+    	<% } %>
+    </div>
 
-    <p><a href="/">Home</a></p>
+    <%= include sidebar.ejs %>
 
 <%= include footer.ejs %>
