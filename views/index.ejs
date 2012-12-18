@@ -1,0 +1,20 @@
+<%= include header.ejs %>
+
+    <h1><%= title %></h1>
+    <p>You're welcome to post something meaningful! Or <a href="posts">view existing posts</a>.
+
+    <form action="posts" method="post" class="form">
+      <table>
+	<tr>
+	  <td>Title</td>
+	  <td><input type="text" name="title" class="full"/></td>
+	</tr>
+	<tr>
+	  <td valign="top">Content</td>
+	  <td><textarea name="content" rows="10" cols="100" class="full"></textarea></td>
+	</tr>
+      </table>
+      <input type="submit"/>
+    </form>
+
+<%= include footer.ejs %>
