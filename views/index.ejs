@@ -2,23 +2,25 @@
     
     <div class="main">
         <h1><%= title %></h1>
-    	<p>You're welcome to post something meaningful! Or <a href="posts">view existing posts</a>.</p>
+    	<p>Send a message:</p>
 	
-	<form action="posts" method="post" class="form">
+	<form action="messages" method="post" class="form">
 	  <table>
 	    <tr>
-	      <td>Title</td>
-	      <td><input type="text" name="title" class="full"/></td>
+	      <td>From</td>
+	      <td><input type="text" name="from" class="full"/></td>
 	    </tr>
 	    <tr>
-	      <td valign="top">Content</td>
-	      <td><textarea name="content" style="width:400px;height:200px;"></textarea></td>
+	      <td>To</td>
+	      <td><input type="text" name="to" class="full"/></td>
+	    </tr>
+	    <tr>
+	      <td valign="top">Text</td>
+	      <td><textarea name="text" style="width:400px;height:200px;"></textarea></td>
 	    </tr>
           </table>
           <input type="submit"/>
         </form>
     </div>
-
-    <%= include sidebar.ejs %>
 
 <%= include footer.ejs %>

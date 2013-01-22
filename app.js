@@ -32,11 +32,9 @@ app.configure('development', function(){
 });
 
 app.get('/', routes.index);
-app.get('/posts', routes.getPosts);
-app.get('/posts/:id', routes.getPost);
-app.post('/posts', routes.postPost);
-app.get('/users/:user', routes.user);
-
+app.get('/messages/to/:user', routes.getMessagesTo);
+app.post('/messages', routes.postMessage);
+app.post('/messages/:id/markasread', routes.markAsRead);
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log("Express server listening on port " + app.get('port'));

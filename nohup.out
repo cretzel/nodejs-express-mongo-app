@@ -22,3 +22,199 @@ Express server listening on port 8084
 [90mGET / [32m200 [90m58ms - 831[0m
 [90mGET / [32m200 [90m31ms - 831[0m
 [90mGET /stylesheets/style.css [32m200 [90m1101ms - 275[0m
+Express server listening on port 8084
+{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}
+[90mGET /posts/50d08045a027cc8a2e000001 [32m200 [90m259ms - 992[0m
+[90mGET /stylesheets/style.css [32m200 [90m1613ms - 418[0m
+{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}
+[90mGET /posts/50d08045a027cc8a2e000001 [32m200 [90m90ms - 992[0m
+[90mGET /stylesheets/style.css [32m200 [90m51ms - 418[0m
+[90mGET / [32m200 [90m48ms - 831[0m
+[90mGET /stylesheets/style.css [36m304 [90m22ms[0m
+[{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}]
+[90mGET /posts [32m200 [90m87ms - 463[0m
+[90mGET /stylesheets/style.css [36m304 [90m15ms[0m
+[{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}]
+[90mGET /posts [32m200 [90m57ms - 463[0m
+[90mGET /stylesheets/style.css [36m304 [90m23ms[0m
+[{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}]
+[90mGET /posts [32m200 [90m35ms - 463[0m
+[90mGET /stylesheets/style.css [36m304 [90m16ms[0m
+{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}
+[90mGET /posts/50d08045a027cc8a2e000001 [32m200 [90m43ms - 992[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}
+[90mGET /posts/50d08045a027cc8a2e000001 [32m200 [90m49ms - 992[0m
+[90mGET /stylesheets/style.css [36m304 [90m21ms[0m
+{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}
+[90mGET /posts/50d08045a027cc8a2e000001 [32m200 [90m33ms - 992[0m
+[90mGET /stylesheets/style.css [36m304 [90m14ms[0m
+[90mGET / [32m200 [90m36ms - 831[0m
+[90mGET /stylesheets/style.css [36m304 [90m32ms[0m
+[{"title":"This is the very first post","content":"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. \r\n\r\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.","_id":"50d08045a027cc8a2e000001"}]
+[90mGET /posts [32m200 [90m42ms - 463[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+[90mGET / [32m200 [90m26ms - 831[0m
+[90mGET /stylesheets/style.css [36m304 [90m13ms[0m
+db level locking enabled: 1
+/home/pi/raspberrypi/mongod --help for help and startup options
+Sun Dec 23 17:26:11 
+Sun Dec 23 17:26:11 warning: 32-bit servers don't have journaling enabled by default. Please use --journal if you want durability.
+Sun Dec 23 17:26:11 
+warning: some regex utf8 things will not work.  pcre build doesn't have --enable-unicode-properties
+Sun Dec 23 17:26:11 [initandlisten] MongoDB starting : pid=27061 port=27017 dbpath=/data/db/ 32-bit host=raspberrypi
+Sun Dec 23 17:26:11 [initandlisten] 
+Sun Dec 23 17:26:11 [initandlisten] ** NOTE: This is a development version (2.1.1-pre-) of MongoDB.
+Sun Dec 23 17:26:11 [initandlisten] **       Not recommended for production.
+Sun Dec 23 17:26:11 [initandlisten] 
+Sun Dec 23 17:26:11 [initandlisten] ** NOTE: when using MongoDB 32 bit, you are limited to about 2 gigabytes of data
+Sun Dec 23 17:26:11 [initandlisten] **       see http://blog.mongodb.org/post/137788967/32-bit-limitations
+Sun Dec 23 17:26:11 [initandlisten] **       with --journal, the limit is lower
+Sun Dec 23 17:26:11 [initandlisten] 
+Sun Dec 23 17:26:11 [initandlisten] db version v2.1.1-pre-, pdfile version 4.5
+Sun Dec 23 17:26:11 [initandlisten] git version: 47fbbdceb21fc2b791d22db7f01792500647daa9
+Sun Dec 23 17:26:11 [initandlisten] build info: Linux raspberrypi 3.2.27+ #102 PREEMPT Sat Sep 1 01:00:50 BST 2012 armv6l BOOST_LIB_VERSION=1_49
+Sun Dec 23 17:26:11 [initandlisten] options: {}
+Sun Dec 23 17:26:11 [initandlisten] waiting for connections on port 27017
+Sun Dec 23 17:26:11 [websvr] admin web console waiting for connections on port 28017
+Sun Dec 23 17:27:02 [initandlisten] connection accepted from 127.0.0.1:54564 #1 (1 connection now open)
+Sun Dec 23 17:27:02 [initandlisten] connection accepted from 127.0.0.1:54565 #2 (2 connections now open)
+Sun Dec 23 17:27:02 [initandlisten] connection accepted from 127.0.0.1:54566 #3 (3 connections now open)
+Sun Dec 23 17:27:02 [initandlisten] connection accepted from 127.0.0.1:54567 #4 (4 connections now open)
+Sun Dec 23 17:27:02 [initandlisten] connection accepted from 127.0.0.1:54568 #5 (5 connections now open)
+Sun Dec 23 17:27:11 [clientcursormon] mem (MB) res:16 virt:87 mapped:0
+Sun Dec 23 17:29:57 [conn2] end connection 127.0.0.1:54566 (4 connections now open)
+Sun Dec 23 17:29:57 [conn4] end connection 127.0.0.1:54567 (3 connections now open)
+Sun Dec 23 17:29:57 [conn5] end connection 127.0.0.1:54568 (3 connections now open)
+Sun Dec 23 17:29:57 [conn1] end connection 127.0.0.1:54564 (3 connections now open)
+Sun Dec 23 17:29:57 [conn3] end connection 127.0.0.1:54565 (2 connections now open)
+Sun Dec 23 17:30:06 [initandlisten] connection accepted from 127.0.0.1:54570 #6 (1 connection now open)
+Sun Dec 23 17:30:06 [initandlisten] connection accepted from 127.0.0.1:54571 #7 (2 connections now open)
+Sun Dec 23 17:30:06 [initandlisten] connection accepted from 127.0.0.1:54572 #8 (3 connections now open)
+Sun Dec 23 17:30:06 [initandlisten] connection accepted from 127.0.0.1:54573 #9 (4 connections now open)
+Sun Dec 23 17:30:06 [initandlisten] connection accepted from 127.0.0.1:54574 #10 (5 connections now open)
+Sun Dec 23 17:31:55 [conn8] end connection 127.0.0.1:54572 (4 connections now open)
+Sun Dec 23 17:31:55 [conn9] end connection 127.0.0.1:54573 (4 connections now open)
+Sun Dec 23 17:31:55 [conn7] end connection 127.0.0.1:54571 (3 connections now open)
+Sun Dec 23 17:31:55 [conn6] end connection 127.0.0.1:54570 (3 connections now open)
+Sun Dec 23 17:31:55 [conn10] end connection 127.0.0.1:54574 (2 connections now open)
+Sun Dec 23 17:32:03 [initandlisten] connection accepted from 127.0.0.1:54575 #11 (1 connection now open)
+Sun Dec 23 17:32:03 [initandlisten] connection accepted from 127.0.0.1:54576 #12 (2 connections now open)
+Sun Dec 23 17:32:03 [initandlisten] connection accepted from 127.0.0.1:54577 #13 (3 connections now open)
+Sun Dec 23 17:32:03 [initandlisten] connection accepted from 127.0.0.1:54578 #14 (4 connections now open)
+Sun Dec 23 17:32:03 [initandlisten] connection accepted from 127.0.0.1:54579 #15 (5 connections now open)
+Sun Dec 23 17:32:06 [FileAllocator] allocating new datafile /data/db/whatsapp.ns, filling with zeroes...
+Sun Dec 23 17:32:06 [FileAllocator] creating directory /data/db/_tmp
+Sun Dec 23 17:32:06 [FileAllocator] done allocating datafile /data/db/whatsapp.ns, size: 16MB,  took 0.009 secs
+Sun Dec 23 17:32:06 [FileAllocator] allocating new datafile /data/db/whatsapp.0, filling with zeroes...
+Sun Dec 23 17:32:06 [FileAllocator] done allocating datafile /data/db/whatsapp.0, size: 16MB,  took 0.012 secs
+Sun Dec 23 17:32:06 [FileAllocator] allocating new datafile /data/db/whatsapp.1, filling with zeroes...
+Sun Dec 23 17:32:06 [FileAllocator] done allocating datafile /data/db/whatsapp.1, size: 32MB,  took 0.02 secs
+Sun Dec 23 17:32:06 [conn12] build index whatsapp.messages { _id: 1 }
+Sun Dec 23 17:32:06 [conn12] build index done.  scanned 0 total records. 0.021 secs
+Sun Dec 23 17:32:06 [conn12] insert whatsapp.messages keyUpdates:0 268ms
+Sun Dec 23 17:32:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 17:32:23 [conn11] end connection 127.0.0.1:54575 (4 connections now open)
+Sun Dec 23 17:32:23 [conn12] end connection 127.0.0.1:54576 (3 connections now open)
+Sun Dec 23 17:32:23 [conn13] end connection 127.0.0.1:54577 (2 connections now open)
+Sun Dec 23 17:32:23 [conn14] end connection 127.0.0.1:54578 (1 connection now open)
+Sun Dec 23 17:32:23 [conn15] end connection 127.0.0.1:54579 (0 connections now open)
+Sun Dec 23 17:32:32 [initandlisten] connection accepted from 127.0.0.1:54580 #16 (1 connection now open)
+Sun Dec 23 17:33:55 [conn16] end connection 127.0.0.1:54580 (0 connections now open)
+Sun Dec 23 17:34:03 [initandlisten] connection accepted from 127.0.0.1:54581 #17 (1 connection now open)
+Sun Dec 23 17:34:03 [initandlisten] connection accepted from 127.0.0.1:54582 #18 (2 connections now open)
+Sun Dec 23 17:34:03 [initandlisten] connection accepted from 127.0.0.1:54583 #19 (3 connections now open)
+Sun Dec 23 17:34:03 [initandlisten] connection accepted from 127.0.0.1:54584 #20 (4 connections now open)
+Sun Dec 23 17:34:03 [initandlisten] connection accepted from 127.0.0.1:54585 #21 (5 connections now open)
+Sun Dec 23 17:34:53 [conn17] end connection 127.0.0.1:54581 (4 connections now open)
+Sun Dec 23 17:34:53 [conn18] end connection 127.0.0.1:54582 (3 connections now open)
+Sun Dec 23 17:34:53 [conn19] end connection 127.0.0.1:54583 (2 connections now open)
+Sun Dec 23 17:34:53 [conn20] end connection 127.0.0.1:54584 (1 connection now open)
+Sun Dec 23 17:34:53 [conn21] end connection 127.0.0.1:54585 (0 connections now open)
+Sun Dec 23 17:35:01 [initandlisten] connection accepted from 127.0.0.1:54587 #22 (1 connection now open)
+Sun Dec 23 17:35:01 [initandlisten] connection accepted from 127.0.0.1:54588 #23 (2 connections now open)
+Sun Dec 23 17:35:01 [initandlisten] connection accepted from 127.0.0.1:54589 #24 (3 connections now open)
+Sun Dec 23 17:35:01 [initandlisten] connection accepted from 127.0.0.1:54590 #25 (4 connections now open)
+Sun Dec 23 17:35:01 [initandlisten] connection accepted from 127.0.0.1:54591 #26 (5 connections now open)
+Sun Dec 23 17:37:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 17:42:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 17:42:22 [conn22] end connection 127.0.0.1:54587 (4 connections now open)
+Sun Dec 23 17:42:22 [conn23] end connection 127.0.0.1:54588 (3 connections now open)
+Sun Dec 23 17:42:22 [conn24] end connection 127.0.0.1:54589 (2 connections now open)
+Sun Dec 23 17:42:22 [conn25] end connection 127.0.0.1:54590 (1 connection now open)
+Sun Dec 23 17:42:22 [conn26] end connection 127.0.0.1:54591 (0 connections now open)
+Sun Dec 23 17:42:30 [initandlisten] connection accepted from 127.0.0.1:54593 #27 (1 connection now open)
+Sun Dec 23 17:42:31 [initandlisten] connection accepted from 127.0.0.1:54594 #28 (2 connections now open)
+Sun Dec 23 17:42:31 [initandlisten] connection accepted from 127.0.0.1:54595 #29 (3 connections now open)
+Sun Dec 23 17:42:31 [initandlisten] connection accepted from 127.0.0.1:54596 #30 (4 connections now open)
+Sun Dec 23 17:42:31 [initandlisten] connection accepted from 127.0.0.1:54597 #31 (5 connections now open)
+Sun Dec 23 17:43:21 [conn27] end connection 127.0.0.1:54593 (4 connections now open)
+Sun Dec 23 17:43:21 [conn28] end connection 127.0.0.1:54594 (3 connections now open)
+Sun Dec 23 17:43:21 [conn29] end connection 127.0.0.1:54595 (2 connections now open)
+Sun Dec 23 17:43:21 [conn30] end connection 127.0.0.1:54596 (1 connection now open)
+Sun Dec 23 17:43:21 [conn31] end connection 127.0.0.1:54597 (0 connections now open)
+Sun Dec 23 17:43:29 [initandlisten] connection accepted from 127.0.0.1:54598 #32 (1 connection now open)
+Sun Dec 23 17:43:29 [initandlisten] connection accepted from 127.0.0.1:54599 #33 (2 connections now open)
+Sun Dec 23 17:43:29 [initandlisten] connection accepted from 127.0.0.1:54600 #34 (3 connections now open)
+Sun Dec 23 17:43:29 [initandlisten] connection accepted from 127.0.0.1:54601 #35 (4 connections now open)
+Sun Dec 23 17:43:29 [initandlisten] connection accepted from 127.0.0.1:54602 #36 (5 connections now open)
+Sun Dec 23 17:44:54 [conn32] end connection 127.0.0.1:54598 (4 connections now open)
+Sun Dec 23 17:44:54 [conn33] end connection 127.0.0.1:54599 (3 connections now open)
+Sun Dec 23 17:44:54 [conn34] end connection 127.0.0.1:54600 (2 connections now open)
+Sun Dec 23 17:44:54 [conn35] end connection 127.0.0.1:54601 (1 connection now open)
+Sun Dec 23 17:44:54 [conn36] end connection 127.0.0.1:54602 (0 connections now open)
+Sun Dec 23 17:45:02 [initandlisten] connection accepted from 127.0.0.1:54604 #37 (1 connection now open)
+Sun Dec 23 17:45:02 [initandlisten] connection accepted from 127.0.0.1:54605 #38 (2 connections now open)
+Sun Dec 23 17:45:02 [initandlisten] connection accepted from 127.0.0.1:54606 #39 (3 connections now open)
+Sun Dec 23 17:45:02 [initandlisten] connection accepted from 127.0.0.1:54607 #40 (4 connections now open)
+Sun Dec 23 17:45:02 [initandlisten] connection accepted from 127.0.0.1:54608 #41 (5 connections now open)
+Sun Dec 23 17:47:04 [conn37] end connection 127.0.0.1:54604 (4 connections now open)
+Sun Dec 23 17:47:04 [conn38] end connection 127.0.0.1:54605 (3 connections now open)
+Sun Dec 23 17:47:04 [conn39] end connection 127.0.0.1:54606 (2 connections now open)
+Sun Dec 23 17:47:04 [conn40] end connection 127.0.0.1:54607 (1 connection now open)
+Sun Dec 23 17:47:04 [conn41] end connection 127.0.0.1:54608 (0 connections now open)
+Sun Dec 23 17:47:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 17:47:12 [initandlisten] connection accepted from 127.0.0.1:54609 #42 (1 connection now open)
+Sun Dec 23 17:47:12 [initandlisten] connection accepted from 127.0.0.1:54610 #43 (2 connections now open)
+Sun Dec 23 17:47:12 [initandlisten] connection accepted from 127.0.0.1:54611 #44 (3 connections now open)
+Sun Dec 23 17:47:12 [initandlisten] connection accepted from 127.0.0.1:54612 #45 (4 connections now open)
+Sun Dec 23 17:47:12 [initandlisten] connection accepted from 127.0.0.1:54613 #46 (5 connections now open)
+Sun Dec 23 17:52:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 17:53:20 [conn42] end connection 127.0.0.1:54609 (4 connections now open)
+Sun Dec 23 17:53:20 [conn43] end connection 127.0.0.1:54610 (3 connections now open)
+Sun Dec 23 17:53:20 [conn44] end connection 127.0.0.1:54611 (2 connections now open)
+Sun Dec 23 17:53:20 [conn45] end connection 127.0.0.1:54612 (1 connection now open)
+Sun Dec 23 17:53:20 [conn46] end connection 127.0.0.1:54613 (0 connections now open)
+Sun Dec 23 17:53:28 [initandlisten] connection accepted from 127.0.0.1:54615 #47 (1 connection now open)
+Sun Dec 23 17:53:28 [initandlisten] connection accepted from 127.0.0.1:54616 #48 (2 connections now open)
+Sun Dec 23 17:53:28 [initandlisten] connection accepted from 127.0.0.1:54617 #49 (3 connections now open)
+Sun Dec 23 17:53:28 [initandlisten] connection accepted from 127.0.0.1:54618 #50 (4 connections now open)
+Sun Dec 23 17:53:28 [initandlisten] connection accepted from 127.0.0.1:54619 #51 (5 connections now open)
+Sun Dec 23 17:55:40 [conn47] end connection 127.0.0.1:54615 (4 connections now open)
+Sun Dec 23 17:55:40 [conn48] end connection 127.0.0.1:54616 (3 connections now open)
+Sun Dec 23 17:55:40 [conn49] end connection 127.0.0.1:54617 (2 connections now open)
+Sun Dec 23 17:55:40 [conn50] end connection 127.0.0.1:54618 (1 connection now open)
+Sun Dec 23 17:55:40 [conn51] end connection 127.0.0.1:54619 (0 connections now open)
+Sun Dec 23 17:55:43 [initandlisten] connection accepted from 127.0.0.1:54622 #52 (1 connection now open)
+Sun Dec 23 17:57:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 17:57:58 [conn52] end connection 127.0.0.1:54622 (0 connections now open)
+Sun Dec 23 17:58:07 [initandlisten] connection accepted from 127.0.0.1:54623 #53 (1 connection now open)
+Sun Dec 23 17:58:07 [initandlisten] connection accepted from 127.0.0.1:54624 #54 (2 connections now open)
+Sun Dec 23 17:58:07 [initandlisten] connection accepted from 127.0.0.1:54625 #55 (3 connections now open)
+Sun Dec 23 17:58:07 [initandlisten] connection accepted from 127.0.0.1:54626 #56 (4 connections now open)
+Sun Dec 23 17:58:07 [initandlisten] connection accepted from 127.0.0.1:54627 #57 (5 connections now open)
+Sun Dec 23 17:59:44 [conn53] end connection 127.0.0.1:54623 (4 connections now open)
+Sun Dec 23 17:59:44 [conn54] end connection 127.0.0.1:54624 (3 connections now open)
+Sun Dec 23 17:59:44 [conn55] end connection 127.0.0.1:54625 (2 connections now open)
+Sun Dec 23 17:59:44 [conn56] end connection 127.0.0.1:54626 (1 connection now open)
+Sun Dec 23 17:59:44 [conn57] end connection 127.0.0.1:54627 (0 connections now open)
+Sun Dec 23 17:59:52 [initandlisten] connection accepted from 127.0.0.1:54629 #58 (1 connection now open)
+Sun Dec 23 17:59:52 [initandlisten] connection accepted from 127.0.0.1:54630 #59 (2 connections now open)
+Sun Dec 23 17:59:52 [initandlisten] connection accepted from 127.0.0.1:54631 #60 (3 connections now open)
+Sun Dec 23 17:59:52 [initandlisten] connection accepted from 127.0.0.1:54632 #61 (4 connections now open)
+Sun Dec 23 17:59:52 [initandlisten] connection accepted from 127.0.0.1:54633 #62 (5 connections now open)
+Sun Dec 23 18:02:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 18:07:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 18:12:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 18:17:11 [clientcursormon] mem (MB) res:32 virt:119 mapped:32
+Sun Dec 23 18:21:11 [PeriodicTask::Runner] task: DBConnectionPool-cleaner took: 5ms
